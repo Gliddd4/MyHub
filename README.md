@@ -1,6 +1,6 @@
 # MyHub
 
-- Add IPA repositories to your signer
+- Add IPA repositories to your IPA signer
 - Browse IPA repositories (beta)
 - Browse and download certificates
 - Disable IPA revokes (and ads)
